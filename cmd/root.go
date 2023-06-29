@@ -10,7 +10,6 @@ import (
 var rootCmd = &cobra.Command{
 	Use:   "scrap6degrees",
 	Short: "Compute six degrees of Kevin Bacon",
-	Long:  `Compute six degrees of Kevin Bacon`,
 	// Run: func(cmd *cobra.Command, args []string) { },
 }
 
