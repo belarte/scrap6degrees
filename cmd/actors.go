@@ -6,7 +6,7 @@ import (
 	"github.com/spf13/cobra"
 )
 
-// actorsCmd represents the actors command
+// actorsCmd represents the actors command.
 var actorsCmd = &cobra.Command{
 	Use:   "actors",
 	Short: "Get actors details",
